@@ -1,7 +1,7 @@
 # Teoría de Electricidad y Electrónica
 
 ## 🗂 Menú de Navegación
-- [¿Qué es la electricidad?](#qué-es-la-electricidad)
+- [¿Qué es la electricidad?](#que-es-la-electricidad)
 - [¿Qué es un átomo?](#qué-es-un-átomo)
 - [¿Qué es la corriente eléctrica?](#qué-es-la-corriente-eléctrica)
 - [Magnitudes Eléctricas](#magnitudes-eléctricas)
