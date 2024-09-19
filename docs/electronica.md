@@ -1,12 +1,12 @@
 # Teoría de Electricidad y Electrónica
 
 ## 🗂 Menú de Navegación
-- [¿Qué es la electricidad?](#qué-es-la-electricidad)
-- [¿Qué es un átomo?](#qué-es-un-átomo)
-- [¿Qué es la corriente eléctrica?](#qué-es-la-corriente-eléctrica)
-- [Magnitudes Eléctricas](#magnitudes-eléctricas)
-- [Ley de Ohm](#ley-de-ohm)
-- [Componentes Electrónicos](#docs/electronica/component-types.md)
+- [¿Qué es la electricidad?](#-que-es-la-electricidad)
+- [¿Qué es un átomo?](#-qué-es-un-átomo)
+- [¿Qué es la corriente eléctrica?](#-qué-es-la-corriente-eléctrica)
+- [Magnitudes Eléctricas](#-magnitudes-eléctricas)
+- [Ley de Ohm](#-ley-de-ohm)
+- [Tipos de Componentes Electrónicos](#-tipos-de-componentes-electrónicos)
 
 
 ## 📘 ¿Qué es la electricidad?
