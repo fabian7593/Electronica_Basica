@@ -2,7 +2,7 @@
 
 ## 🗂 Menú de Navegación
 - [Simbolos Electrónicos](https://www.simbologia-electronica.com/simbologia-electrica-electronica/simbolos-electricos-electronicos-basicos.htm)
-- [Tipos de Componentes Electrónicos](#tipos-de-componentes-electrónicos)
+- [Tipos de Componentes Electrónicos](#-tipos-de-componentes-electrónicos)
 - [Resistencias](#resistencias)
   - [Tipos de Resistencias](#tipos-de-resistencias)
   - [Agrupamiento de Resistencias](#agrupamiento-de-resistencias)
