@@ -63,13 +63,13 @@ Las resistencias **SMD** son más pequeñas y su valor generalmente se mide con 
 
 En un circuito en **serie**, las resistencias están conectadas una tras otra. Si una resistencia se daña, se interrumpe el flujo de corriente (como en las luces de Navidad). La resistencia total se calcula sumando los valores de las resistencias:
 
-\[ R_{\text{total}} = R_1 + R_2 + R_3 + \dots \]
+R_total = R1 + R2 + R3 + 
 
 #### Agrupamiento en Paralelo
 
 En un circuito en **paralelo**, las resistencias están conectadas en diferentes caminos hacia la fuente de energía. Si una resistencia se daña, las demás continúan funcionando. La resistencia total se calcula usando la fórmula:
 
-\[ \frac{1}{R_{\text{total}}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots \]
+1 / R_total = (1 / R1) + (1 / R2) + (1 / R3)
 
 Para simplificar el cálculo, puedes usar la [calculadora de resistencias en paralelo](https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-parallel-and-series-resistor).
 
@@ -91,9 +91,9 @@ Un **capacitor** es un componente que almacena energía en su campo eléctrico. 
 
 ### Tipos y Capacidades
 
-- **Microfaradios (µF)**: \(1 \, \text{µF} = 10^{-6} \, \text{F}\)
-- **Nanofaradios (nF)**: \(1 \, \text{nF} = 10^{-9} \, \text{F}\)
-- **Picofaradios (pF)**: \(1 \, \text{pF} = 10^{-12} \, \text{F}\)
+- **Microfaradios (µF)**: 1 µF = 10⁻⁶ F
+- **Nanofaradios (nF)**: 1 nF = 10⁻⁹ F
+- **Picofaradios (pF)**: 1 pF = 10⁻¹² F
 
 Los capacitores también pueden tener polaridad, como en el caso de los **capacitores electrolíticos**. 
 
@@ -105,11 +105,11 @@ Los capacitores pueden agruparse en **serie** o **paralelo** al igual que las re
 
 - **Serie**: El valor total se calcula de manera similar a las resistencias en paralelo:
 
-\[ \frac{1}{C_{\text{total}}} = \frac{1}{C_1} + \frac{1}{C_2} + \dots \]
+1 / C_total = (1 / C1) + (1 / C2)
 
 - **Paralelo**: El valor total se calcula sumando los valores de los capacitores:
 
-\[ C_{\text{total}} = C_1 + C_2 + \dots \]
+C_total = C1 + C2 
 
 Puedes utilizar esta [calculadora de agrupamiento de capacitores](https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor).
 
