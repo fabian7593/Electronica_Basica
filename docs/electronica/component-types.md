@@ -1,4 +1,4 @@
-# componentes Electrónicos
+# Componentes Electrónicos
 
 ## 🗂 Menú de Navegación
 - [Simbolos Electrónicos](https://www.simbologia-electronica.com/simbologia-electrica-electronica/simbolos-electricos-electronicos-basicos.htm)
