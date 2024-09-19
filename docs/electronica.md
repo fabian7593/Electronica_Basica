@@ -6,9 +6,8 @@
 - [¿Qué es la corriente eléctrica?](#qué-es-la-corriente-eléctrica)
 - [Magnitudes Eléctricas](#magnitudes-eléctricas)
 - [Ley de Ohm](#ley-de-ohm)
-- [Tipos de Componentes Electrónicos](#tipos-de-componentes-electrónicos)
+- [Componentes Electrónicos](#docs/electronica/component-types.md)
 
----
 
 ## 📘 ¿Qué es la electricidad?
 La **electricidad** es una forma de energía que no puede ser creada ni destruida, solo transformada. Consiste en el flujo o movimiento de electrones a través de un medio conductor, permitiendo que se genere una corriente eléctrica durante un período de tiempo determinado.
@@ -63,19 +62,6 @@ La **Ley de Ohm** define la relación entre **tensión (V)**, **corriente (I)** 
 
 ![](https://github.com/fabian7593/Electronica_Basica/blob/main/imgs/LEY_OMH.png?raw=true)
 
-## 🔌 Tipos de Componentes Electrónicos
 
-### Según su tecnología:
-- **THT (Through-Hole Technology)**: Tecnología de montaje por agujeros pasantes. Los componentes tienen pines que se insertan en la placa.
-- **SMD (Surface-Mount Device)**: Dispositivo de montaje superficial. Los componentes se montan directamente sobre la superficie de la placa.
-
-### Según su función en el circuito:
-- **Conductores**: Materiales que permiten el paso de la corriente, como los metales.
-- **Aislantes**: Materiales que no permiten el paso de la corriente, como la madera o la cinta aislante.
-- **Semiconductores**: Materiales que pueden comportarse tanto como conductores o como aislantes, dependiendo de las condiciones.
-
-### Clasificación de los componentes:
-- **Activos**: Son capaces de suministrar o controlar la corriente eléctrica, como los transistores.
-- **Pasivos**: Solo pueden recibir corriente eléctrica, como las resistencias o condensadores.
 
 
