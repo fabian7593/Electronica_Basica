@@ -6,7 +6,7 @@
 - [¿Qué es la corriente eléctrica?](#-qué-es-la-corriente-eléctrica)
 - [Magnitudes Eléctricas](#-magnitudes-eléctricas)
 - [Ley de Ohm](#-ley-de-ohm)
-- [Componentes Electrónicos](docs/electronica/component-types.md)
+- [Componentes Electrónicos](electronica/component-types.md)
 
 
 
